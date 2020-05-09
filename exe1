@@ -1,0 +1,12 @@
+Algoritmo  "*"
+
+Var
+n1, resultado: inteiro
+Inicio
+
+escreval("Digite o numero de anos desejado:")
+leia(n1)
+resultado<- n1 * 54
+escreval("Semanas presentes neste ano:", resultado)
+
+Fimalgoritmo
